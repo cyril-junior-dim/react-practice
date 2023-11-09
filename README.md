@@ -1,4 +1,4 @@
-# React-Practice
+# React Practice
 
 This repository is dedicated to tracking my frontend development practice. I am pursuing a best-selling course on Udemy, "The Ultimate React Course 2023: React, Redux & More" under Senior Developer Jonas Schmedtmann. In this repository, I will post solutions demonstrating my growth as I:
 
